@@ -4,13 +4,13 @@ Shim for ECMAScript 5 Array.isArray
 
 ## Installation
 
-Install component:
-
-    npm install -g component
-
-Then:
+### [Component](https://github.com/component/component)
 
     component install gamtiq/isarray-shim
+
+### [SPM](http://spmjs.io)
+
+    spm install isarray-shim
 
 ## Usage
 

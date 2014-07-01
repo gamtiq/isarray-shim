@@ -1,0 +1,29 @@
+{
+    "name": "isarray-shim",
+    "version": "0.0.1",
+    "description": "Shim for ECMAScript 5 Array.isArray",
+    "keywords": [
+        "Array",
+        "isArray",
+        "es5",
+        "shim",
+        "polyfill"
+    ],
+    "homepage": "https://github.com/gamtiq/isarray-shim",
+    "author": "Denis Sikuler",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/gamtiq/isarray-shim.git"
+    },
+    "bugs": {
+        "url": "https://github.com/gamtiq/isarray-shim/issues"
+    },
+    "licenses": "MIT",
+    "spm": {
+        "main": "index.js",
+        "engines": {
+            "seajs": "2.2.1"
+        },
+        "ignore": [".*", "build"]
+    }
+}
