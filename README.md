@@ -4,7 +4,7 @@ Shim for ECMAScript 5 Array.isArray
 
 ## Installation
 
-### [Component](https://github.com/component/component)
+### [Component](https://github.com/componentjs/component)
 
     component install gamtiq/isarray-shim
 

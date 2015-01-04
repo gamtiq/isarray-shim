@@ -1,8 +1,8 @@
 {
     "name": "isarray-shim",
-    "repo": "gamtiq/isarray-shim",
+    "repository": "gamtiq/isarray-shim",
     "description": "Shim for ECMAScript 5 Array.isArray",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "keywords": [
         "Array",
         "isArray",
